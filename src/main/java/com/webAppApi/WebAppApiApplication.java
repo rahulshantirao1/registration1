@@ -8,6 +8,8 @@ public class WebAppApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WebAppApiApplication.class, args);
+
+		System.out.println("Hello How are your application is started");
 	}
 
 }
